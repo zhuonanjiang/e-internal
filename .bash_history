@@ -26,3 +26,7 @@ git remote add origin https://github.com/zhuonanjiang/e-internal.git
 git push -u origin master 
 cd ../external/
 git init
+git add .
+git commit -m "Initial commit"
+cd ../external/
+git init
